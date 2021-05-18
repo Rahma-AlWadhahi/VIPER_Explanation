@@ -72,6 +72,6 @@ One of the useful tools to create consistent Modules folders and files is [VIPER
 
 After creating a new iOS application, you can start by creating modules using the template. This will be available at the end of the list.
 
-![New VIPER Module](assets/new-viper-module.png)
+<img width="731" alt="new-viper-module" src="https://user-images.githubusercontent.com/61970868/118623640-7f82d900-b7d9-11eb-947c-aed863842af2.png">
 
 Once you create a VIPER module, it will be created as folders (blue folders). You have to remove the reference and import them as groups (yellow folders).
