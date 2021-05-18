@@ -62,10 +62,16 @@ To Achieve that, the VIPER design pattern is used.
     ├── Pods
     └── ...
 
-One of the useful tools to create consistent Modules folders and files is [Link Here]()
+One of the useful tools to create consistent Modules folders and files is [VIPER Templates](assets/VIPER Templates)
 
-Simply create a VIPER module architecture inside module folder using the following template.
+### One-time installation
 
-Use the following path
+1. Download the **VIPER Templates** folder.
+1. Paste the folder in the following directory
+   `~/Library/Developer/Xcode/Templates/`
 
-`~/Library/Developer/Xcode/Templates/File\ Templates/`
+After creating a new iOS application, you can start by creating modules using the template. This will be available at the end of the list.
+
+![New VIPER Module](assets/new-viper-module.png)
+
+Once you create a VIPER module, it will be created as folders (blue folders). You have to remove the reference and import them as groups (yellow folders).
