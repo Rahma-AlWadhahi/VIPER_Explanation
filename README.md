@@ -5,3 +5,5 @@ This repository is a home for documentation to help use VIPER architecture effec
 ## Useful documentation
 
 ### [VIPER Architecture](docs/viper-architecture.md)
+
+### [Using VIPER Template](docs/using-viper-template.md)
